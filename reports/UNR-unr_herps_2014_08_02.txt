@@ -1,0 +1,82 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 13
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-02 ; Times: 1
+	Date: 2014-07-06 ; Times: 2
+	Date: 2014-07-07 ; Times: 3
+	Date: 2014-07-10 ; Times: 1
+	Date: 2014-07-11 ; Times: 2
+	Date: 2014-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampropeltis triangulum sinaloae" ; Times: 1
+	Query: "Philippine amphibians amphibians (tissue)" ; Times: 1
+	Query: "order:Urodela mappable:1" ; Times: 1
+	Query: "Uromastyx aegyptius" ; Times: 2
+	Query: "leiopython" ; Times: 2
+	Query: "lampropeltis triangulum annulata" ; Times: 1
+	Query: "pseudemoia" ; Times: 1
+	Query: "Hyla andersoni stateprovince:"New Jersey"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 437 download events in this period)
+Total number of records downloaded: 1623 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1584
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 2
+	Date: 2014-07-02 ; Times: 2
+	Date: 2014-07-09 ; Times: 2
+	Date: 2014-07-10 ; Times: 1
+	Date: 2014-07-15 ; Times: 1
+	Date: 2014-07-16 ; Times: 1
+	Date: 2014-07-26 ; Times: 2
+	Date: 2014-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"El Dorado" stateprovince:"California"" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 2
+	Query: "hyla cinerea" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "order:Urodela mappable:1" ; Times: 1
+	Query: "Tupinambis" ; Times: 2
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "order:Squamata mappable:1" ; Times: 1
+	Query: "Hyla andersoni stateprovince:"New Jersey"" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 28
+Total number of records retrieved from searches: 402
+Number of download events that retrieved data from the resource: 63
+Total number of records downloaded: 4241
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 28
+Total number of records retrieved from searches: 402
+Number of download events that retrieved data from the resource: 118
+Total number of records downloaded: 9303
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
