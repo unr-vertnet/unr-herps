@@ -1,0 +1,92 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 544
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 4
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-05 ; Times: 1
+	Date: 2014-12-09 ; Times: 2
+	Date: 2014-12-15 ; Times: 1
+	Date: 2014-12-18 ; Times: 1
+	Date: 2014-12-21 ; Times: 1
+	Date: 2014-12-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ensatina nevada county" ; Times: 1
+	Query: "institutioncode:unr" ; Times: 5
+	Query: "Goniurosaurus" ; Times: 1
+	Query: "bufo nelsoni" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 238 download events in this period)
+Total number of records downloaded: 659 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 630
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 1
+	Date: 2014-12-02 ; Times: 1
+	Date: 2014-12-03 ; Times: 1
+	Date: 2014-12-04 ; Times: 1
+	Date: 2014-12-05 ; Times: 6
+	Date: 2014-12-07 ; Times: 1
+	Date: 2014-12-08 ; Times: 1
+	Date: 2014-12-10 ; Times: 1
+	Date: 2014-12-12 ; Times: 1
+	Date: 2014-12-22 ; Times: 2
+	Date: 2014-12-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Sandoval" stateprovince:"New Mexico"" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:multicarinata genus:Elgaria" ; Times: 1
+	Query: "Rana muscosa" ; Times: 1
+	Query: "country:"Marshall Islands" year >= 1800 year <= 1956" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:coronatum genus:Phrynosoma" ; Times: 1
+	Query: ""spea intermontana" mappable:1" ; Times: 1
+	Query: ""plethodon dunni"" ; Times: 1
+	Query: "Aneides" ; Times: 2
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:catesbeiana genus:Rana" ; Times: 1
+	Query: "county:"Coconino" stateprovince:"Arizona"" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "stateprovince:"California" (Rana catesbeiana)" ; Times: 1
+	Query: "Aneides Mendocino California" ; Times: 1
+	Query: "Lacertidae" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: "Aneides lugubris Mendocino California" ; Times: 1
+	Query: "testudinidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 58
+Total number of records retrieved from searches: 1104
+Number of download events that retrieved data from the resource: 123
+Total number of records downloaded: 8177
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 58
+Total number of records retrieved from searches: 1104
+Number of download events that retrieved data from the resource: 178
+Total number of records downloaded: 13239
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
