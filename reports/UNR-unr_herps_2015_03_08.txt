@@ -1,0 +1,160 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 285
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 47
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 1
+	Date: 2015-02-05 ; Times: 4
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-07 ; Times: 2
+	Date: 2015-02-08 ; Times: 2
+	Date: 2015-02-09 ; Times: 3
+	Date: 2015-02-10 ; Times: 10
+	Date: 2015-02-12 ; Times: 9
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-14 ; Times: 3
+	Date: 2015-02-17 ; Times: 4
+	Date: 2015-02-18 ; Times: 7
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eumeces gilberti nevada" ; Times: 1
+	Query: "Chionactis Nye" ; Times: 2
+	Query: "Sonora semiannulata nevada" ; Times: 1
+	Query: "paramesotriton" ; Times: 1
+	Query: "Rhinocheilus lecontei Nevada" ; Times: 4
+	Query: ""lampropeltis ruthveni"" ; Times: 1
+	Query: "Talpina" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 2
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "Coluber constrictor Nevada" ; Times: 1
+	Query: "Arizona elegans Nevada" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "genus:Heloderma" ; Times: 1
+	Query: "Hypsiglena torquata Nevada" ; Times: 1
+	Query: "Eumeces gilberti Nevada" ; Times: 5
+	Query: "chionactis nye" ; Times: 2
+	Query: "Trimorphodon biscutatus Nevada" ; Times: 1
+	Query: "Chionactis occipitalis Nevada" ; Times: 1
+	Query: "charina "charina" (california) AND (mexico)" ; Times: 1
+	Query: "crotalus STEPHENSI" ; Times: 3
+	Query: "Eumeces skiltonianus nevada" ; Times: 1
+	Query: "tantilla Nevada" ; Times: 2
+	Query: "country:"Costa Rica" genus:Clelia" ; Times: 1
+	Query: "Eumeces gilberti nevada" ; Times: 2
+	Query: "diploglossus monotropis" ; Times: 3
+	Query: "Hypsiglena Nevada" ; Times: 5
+	Query: "Sonora sp Nevada" ; Times: 1
+	Query: "Lampropeltis getula californiae" ; Times: 1
+	Query: "Kinixys nogueyi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 326 download events in this period)
+Total number of records downloaded: 3927 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2854
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Russia ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 31
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 4
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 4
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-07 ; Times: 4
+	Date: 2015-02-09 ; Times: 2
+	Date: 2015-02-10 ; Times: 1
+	Date: 2015-02-12 ; Times: 5
+	Date: 2015-02-13 ; Times: 8
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-18 ; Times: 3
+	Date: 2015-02-23 ; Times: 3
+	Date: 2015-02-24 ; Times: 1
+	Date: 2015-02-25 ; Times: 2
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pipiens" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Pyxicephalus adspersus" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "paramesotriton" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 2
+	Query: "taricha granulosa" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "eumeces gilberti Nevada" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "genus:Heloderma" ; Times: 2
+	Query: "gerrhosaurus nigrolineatus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Ambystoma Tigrinum mappable:1" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Typhlonectes natans" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:amphibia" ; Times: 1
+	Query: "Graptemys stateprovince:"Louisiana"" ; Times: 1
+	Query: "specificepithet:catesbeiana" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "Dendrobatidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "specificepithet:fisheri" ; Times: 1
+	Query: "crotalus STEPHENSI" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Heloderma" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 109
+Total number of records retrieved from searches: 1389
+Number of download events that retrieved data from the resource: 62
+Total number of records downloaded: 6974
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 128
+Total number of records retrieved from searches: 1639
+Number of download events that retrieved data from the resource: 240
+Total number of records downloaded: 20213
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
