@@ -1,0 +1,159 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 246
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 43
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-07 ; Times: 2
+	Date: 2015-05-08 ; Times: 6
+	Date: 2015-05-10 ; Times: 2
+	Date: 2015-05-11 ; Times: 4
+	Date: 2015-05-12 ; Times: 4
+	Date: 2015-05-14 ; Times: 10
+	Date: 2015-05-15 ; Times: 4
+	Date: 2015-05-18 ; Times: 4
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-22 ; Times: 3
+	Date: 2015-05-23 ; Times: 5
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 3
+	Date: 2015-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "holaspis" ; Times: 2
+	Query: "rana pipiens caribou idaho" ; Times: 1
+	Query: "lampropeltis triangulum annulata" ; Times: 1
+	Query: "Charina bottae" ; Times: 5
+	Query: "charina county:"humboldt"" ; Times: 2
+	Query: "Rana pipiens idaho" ; Times: 1
+	Query: "county:"lincoln" stateprovince:"nevada" genus:sauromalus" ; Times: 1
+	Query: "Crotalus atrox Nevada" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Phrynosoma (California) year >= 2000 year <= 2015" ; Times: 1
+	Query: "county:"churchill" class:amphibia" ; Times: 1
+	Query: "stateprovince:"nevada" genus:sauromalus" ; Times: 7
+	Query: "Trimorphodon biscutatus Nevada" ; Times: 1
+	Query: "Xantusia vigilis riverside" ; Times: 1
+	Query: "county:"clark" stateprovince:"nevada" genus:sauromalus" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "specificepithet:ruthveni genus:Lampropeltis" ; Times: 2
+	Query: "bufo alvarius" ; Times: 3
+	Query: "Ambystoma tigrinum idaho" ; Times: 3
+	Query: "Chionactis talpina" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 2
+	Query: "crotalus scutulatus" ; Times: 3
+	Query: "Pyromelana" ; Times: 2
+	Query: "Chionactis inyo" ; Times: 3
+	Query: "Heloderma" ; Times: 1
+	Query: "ambystoma tigrinum idaho" ; Times: 2
+	Query: "Bitis nasicornis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 976 download events in this period)
+Total number of records downloaded: 4028 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1972
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 43
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 2
+	Date: 2015-05-07 ; Times: 7
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-13 ; Times: 2
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-21 ; Times: 24
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-26 ; Times: 1
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "alytes" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "hydrophis" ; Times: 1
+	Query: "crotaphytus bicinctores" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "laticauda" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "sceloporus magister" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "agamidae" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "phrynosoma platyrhinos" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "cnemidophorus tigris" ; Times: 1
+	Query: "Charina" ; Times: 1
+	Query: "charina bottae" ; Times: 2
+	Query: "Eumeces" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "(alytes OR discoglossus)" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 186
+Total number of records retrieved from searches: 1879
+Number of download events that retrieved data from the resource: 140
+Total number of records downloaded: 12245
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 205
+Total number of records retrieved from searches: 2129
+Number of download events that retrieved data from the resource: 318
+Total number of records downloaded: 25484
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
