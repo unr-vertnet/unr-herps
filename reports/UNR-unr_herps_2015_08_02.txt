@@ -1,0 +1,172 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 262
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Germany ; Times: 1
+	Country: United States ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 7
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-12 ; Times: 3
+	Date: 2015-07-14 ; Times: 1
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-22 ; Times: 3
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-25 ; Times: 1
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 9
+	Date: 2015-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:500" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "county:"Mono" genus:Hypsiglena" ; Times: 1
+	Query: "county:"Inyo" specificepithet:boreas genus:Bufo" ; Times: 1
+	Query: "gonyosoma oxycephalum" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:regilla genus:Hyla institutioncode:UNR" ; Times: 1
+	Query: "crotalus mitchellii nevada" ; Times: 1
+	Query: "phrynosoma catalognumber:7063" ; Times: 1
+	Query: "malayemys" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis institutioncode:UNR" ; Times: 1
+	Query: "coleonyx nevada" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "stateprovince:"Nevada" genus:Hypsiglena" ; Times: 1
+	Query: "county:"Mono" stateprovince:"California" genus:Charina" ; Times: 1
+	Query: "county:"Mono" stateprovince:"California" genus:Hypsiglena" ; Times: 1
+	Query: "stateprovince:"Nevada" genus:Rhinocheilus" ; Times: 1
+	Query: "Xantusia vigilis Nye" ; Times: 1
+	Query: "Eumeces gilberti Nevada" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana institutioncode:UNR" ; Times: 1
+	Query: "Reptilia great sand dunes" ; Times: 1
+	Query: "rhinocheilus lecontei (CA)" ; Times: 1
+	Query: "county:"Clark" stateprovince:"Nevada" specificepithet:scutulatus" ; Times: 1
+	Query: "Sonora semiannulata county:"clark"" ; Times: 1
+	Query: "phrynosoma year >= 1948 year <= 1948" ; Times: 1
+	Query: "county:"Inyo" specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 9
+	Query: "heloderma (Nevada)" ; Times: 1
+	Query: "stateprovince:"Nevada" genus:Trimorphodon" ; Times: 4
+	Query: "Sonora semiannulata Nevada" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 1084 download events in this period)
+Total number of records downloaded: 2079 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1622
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 48
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 5
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 1
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-13 ; Times: 2
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-21 ; Times: 6
+	Date: 2015-07-22 ; Times: 19
+	Date: 2015-07-24 ; Times: 3
+	Date: 2015-07-28 ; Times: 2
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 4
+	Date: 2015-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 2
+	Query: "Terrapene (carolina OR bauri OR major OR triunguis)" ; Times: 1
+	Query: "Rana catesbeiana year >= 1999 year <= 2007" ; Times: 1
+	Query: "Eublepharidae" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "bufo valliceps" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Graptemys" ; Times: 1
+	Query: "Graptemys kohnii" ; Times: 1
+	Query: "country:"Mexico" class:Amphibia" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "Chrysemys dorsalis" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Xenosauridae" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "Xantusiidae" ; Times: 2
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Graptemys ouachitensis" ; Times: 1
+	Query: "Xantusia vigilis Nye" ; Times: 1
+	Query: "country:"Mexico" class:Reptilia" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "thecadactylus rapicauda" ; Times: 1
+	Query: "Rana onca year >= 1900 year <= 2013" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "thamnophis couchii" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "genus:Trimorphodon" ; Times: 1
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "plethodon metcalfi" ; Times: 1
+	Query: "Kinosternon baurii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Apalone spinifera mappable:1" ; Times: 1
+	Query: "crotalus viridis viridis" ; Times: 1
+	Query: "Graptemys (pseudogeographica OR sabinensis)" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "Graptemys versa" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "Gerrhosauridae" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "Cordylidae" ; Times: 1
+	Query: "Apalone ferox" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 256
+Total number of records retrieved from searches: 2343
+Number of download events that retrieved data from the resource: 216
+Total number of records downloaded: 15222
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 275
+Total number of records retrieved from searches: 2593
+Number of download events that retrieved data from the resource: 394
+Total number of records downloaded: 28461
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
