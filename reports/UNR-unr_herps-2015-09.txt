@@ -1,0 +1,156 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 530
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: South Africa ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-07 ; Times: 6
+	Date: 2015-09-23 ; Times: 8
+	Date: 2015-09-19 ; Times: 3
+	Date: 2015-09-05 ; Times: 3
+	Date: 2015-09-02 ; Times: 4
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-11 ; Times: 3
+	Date: 2015-09-12 ; Times: 7
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 5
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-08 ; Times: 5
+	Date: 2015-09-22 ; Times: 2
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phrynosoma washoe county" ; Times: 2
+	Query: "Charina bottae stateprovince:&#34;Nevada&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:alleni genus:Micrurus country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "heloderma nevada" ; Times: 1
+	Query: "type:specimen genus:Cerastes family:Viperidae" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia country:&#34;Costa&#34;" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 2
+	Query: "stateprovince:&#34;Nevada&#34; genus:Rhinocheilus" ; Times: 1
+	Query: "crotalus stephensi" ; Times: 2
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Shinisaurus" ; Times: 2
+	Query: "Rhinocheilus lecontei Nevada" ; Times: 1
+	Query: "Geochelone sulcata" ; Times: 1
+	Query: "Masticophis taeniatus stateprovince:&#34;Nevada&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Trimorphodon biscutatus Nevada" ; Times: 1
+	Query: "Diploglossus monotropis" ; Times: 1
+	Query: "specificepithet:humilis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Masticophis taeniatus stateprovince:&#34;Nevada&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Pelusios niger" ; Times: 1
+	Query: "crotalus pyrrhus" ; Times: 1
+	Query: "stateprovince:&#34;Nevada&#34; genus:Coleonyx" ; Times: 3
+	Query: "skiltonianus nevada" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "ahaetulla nasuta" ; Times: 1
+	Query: "Ensatina eschschlotzii" ; Times: 3
+	Query: "Masticophis taeniatus stateprovince:&#34;Nevada&#34;" ; Times: 5
+	Query: "python bivittatus" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 4
+	Query: "stateprovince:&#34;Nevada&#34; genus:Sauromalus" ; Times: 8
+	Query: "Micrurus alleni" ; Times: 1
+	Query: "Python curtus" ; Times: 2
+	Query: "Lampropeltis getula californiae" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "Heloderma suspectum Nevada" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 1045 download events in this period)
+Total number of records downloaded: 3506
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-25 ; Times: 6
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-22 ; Times: 6
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-10 ; Times: 1
+	Date: 2015-09-11 ; Times: 4
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-04 ; Times: 5
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 5
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-08 ; Times: 2
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Louisiana genus:Graptemys" ; Times: 2
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 3
+	Query: "python molurus" ; Times: 1
+	Query: "Chionactis occipitalis" ; Times: 2
+	Query: "Spea" ; Times: 2
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "python bivittatus" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "corytophanes" ; Times: 1
+	Query: "Spea type:specimen" ; Times: 1
+	Query: "Louisiana genus:Terrapene" ; Times: 2
+	Query: "Phrynosoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Lepidodactylus" ; Times: 1
+	Query: "Masticophis taeniatus stateprovince:&#34;Nevada&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "bufo marinus" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "ascaphus" ; Times: 2
+	Query: "phrynosoma" ; Times: 1
+	Query: "Masticophis taeniatus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Python molurus" ; Times: 2
+	Query: "Rana onca" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "country:&#34;marshall islands&#34; class:reptilia" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Charina bottae stateprovince:&#34;Nevada&#34; country:&#34;United States&#34; mappable:1" ; Times: 3
+
+
+End of report.
