@@ -1,0 +1,93 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 143
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 8
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 3
+	Date: 2015-11-24 ; Times: 2
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-03 ; Times: 1
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "Pituophis virginia" ; Times: 1
+	Query: "Draco maculatus" ; Times: 1
+	Query: "dendroaspis" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 3
+	Query: "sibon nebulatus" ; Times: 1
+	Query: "institutioncode:UNR" ; Times: 1
+	Query: "UNR 7088" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Pelobates fuscus type:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 751 download events in this period)
+Total number of records downloaded: 1229
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-02 ; Times: 2
+	Date: 2015-11-20 ; Times: 2
+	Date: 2015-11-23 ; Times: 1
+	Date: 2015-11-09 ; Times: 3
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-25 ; Times: 3
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-06 ; Times: 4
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-17 ; Times: 1
+	Date: 2015-11-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Hemidactylus garnotii" ; Times: 1
+	Query: "dendroaspis" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "genus:Hyla country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:jacksonii" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "Callisaurus" ; Times: 2
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "Notophthalmus" ; Times: 1
+	Query: "elgaria" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Antaresia childreni" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "Rana fisheri" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "Heloderma suspectum class:Reptilia mappable:1" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+
+
+End of report.
