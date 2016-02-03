@@ -1,0 +1,132 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 247
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-10 ; Times: 3
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 5
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Crotalus institutioncode:UNR" ; Times: 1
+	Query: "Charina bottae stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "Lampropeltis pyromelana" ; Times: 7
+	Query: "Corallus caninus" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 2
+	Query: "specificepithet:magister genus:Sceloporus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Hypsiglena county:Mono" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus year &gt;= 1999 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:ruthveni genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:nebulatus genus:Sibon" ; Times: 1
+	Query: "Unr 6311" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "class:Amphibia county:&#34;Sacramento&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;sierra&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "eumeces skiltonianus utahensis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Hypsiglena torquata stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;sierra&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "eumeces skiltonianus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Masticophis taeniatus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 823 download events in this period)
+Total number of records downloaded: 2362
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 46
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 3
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-15 ; Times: 4
+	Date: 2015-10-29 ; Times: 7
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "taricha torosa county:&#34;san diego&#34;" ; Times: 3
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Charina bottae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Thamnophis elegans stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "Cophosaurus texanus" ; Times: 1
+	Query: "apalone ferox" ; Times: 2
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "Sceloporus poinsettii" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "crotalus stephensi" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus year &gt;= 1999 year &lt;= 2015" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Salvadora hexalepis" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 2
+	Query: "Phrynosoma platyrhinos stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "Sceloporus occidentalis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "class:amphibia county:&#34;sierra&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "class:reptilia county:&#34;sierra&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "Callisaurus draconoides stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "Sceloporus stateprovince:&#34;Nevada&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Cnemidophorus tesselatus" ; Times: 2
+	Query: "Uta stansburiana stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Gambelia wislizenii stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+
+End of report.
