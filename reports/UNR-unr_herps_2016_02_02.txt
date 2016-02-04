@@ -1,0 +1,126 @@
+Report for Institution Code UNR, Resource Herpetology
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 287
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 41
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 3
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-12 ; Times: 9
+	Date: 2016-01-13 ; Times: 14
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "eumeces skiltonianus nevada county" ; Times: 1
+	Query: "eryx colubrinus" ; Times: 12
+	Query: "Lampropeltis getula Nevada" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "bufo exsul saline" ; Times: 1
+	Query: "lampropeltis pyromelana (nevada) mappable:1" ; Times: 1
+	Query: "Diadophis punctatus Nevada" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "Spea intermontana washoe county" ; Times: 1
+	Query: "specificepithet:mandarina family:colubridae" ; Times: 2
+	Query: "Xantusia vigilis Nevada" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "pituophis virginia" ; Times: 7
+	Query: "Crotalus mitchellii Nevada" ; Times: 1
+	Query: "Crotalus scutulatus Nevada" ; Times: 1
+	Query: "Chionactis occipitalis Nevada" ; Times: 1
+	Query: "bufo boreas hot creek" ; Times: 1
+	Query: "Ambystoma Nevada" ; Times: 2
+	Query: "Hypsiglena torquata Nevada" ; Times: 2
+	Query: "Trimorphodon biscutatus Nevada" ; Times: 1
+	Query: "Eryx colubrinus" ; Times: 1
+	Query: "Sonora semiannulata Nevada" ; Times: 2
+	Query: "type:specimen specificepithet:emoryi genus:elaphe" ; Times: 1
+	Query: "Coluber constrictor Nevada" ; Times: 1
+	Query: "Heloderma suspectum Nevada" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 507 download events in this period)
+Total number of records downloaded: 1633 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 590
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-12 ; Times: 7
+	Date: 2016-01-13 ; Times: 3
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "order:CAudata country:"United States"" ; Times: 4
+	Query: "Rhinocheilus lecontei Nevada" ; Times: 1
+	Query: "Crotalus mitchellii Nevada" ; Times: 1
+	Query: "Sonora semiannulata Nevada" ; Times: 2
+	Query: "Crotalus scutulatus Nevada" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "Chionactis occipitalis nevada" ; Times: 1
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "Masticophis taeniatus Nevada" ; Times: 1
+	Query: "Diadophis punctatus Nevada" ; Times: 1
+	Query: "Hypsiglena torquata Nevada" ; Times: 1
+	Query: "type:specimen locality:Buttes county:"Sutter"" ; Times: 1
+	Query: "Trimorphodon biscutatus Nevada" ; Times: 1
+	Query: "Taricha stateprovince:"California"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 26
+Total number of records downloaded: 1633
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 46
+Total number of records retrieved from searches: 287
+Number of download events that retrieved data from the resource: 26
+Total number of records downloaded: 1633
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
