@@ -1,0 +1,78 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 158
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-11 ; Times: 3
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ensatina nevada county" ; Times: 1
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "Sonora semiannulata Nevada" ; Times: 1
+	Query: "gbifdatasetid:c62f7574-d65a-4018-87a2-b96d6df5231b" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Phyllorhynchus decurtatus Nevada" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 512 download events in this period)
+Total number of records downloaded: 3274
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-11 ; Times: 4
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 1
+	Date: 2016-02-26 ; Times: 8
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "Crotalus cerastes Nevada" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Phyllorhynchus decurtatus Nevada" ; Times: 1
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:California" ; Times: 5
+	Query: "taricha torosa" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Bufo nelsoni Nevada" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+
+
+End of report.
