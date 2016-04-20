@@ -1,0 +1,51 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 111
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus clark county nevada" ; Times: 2
+	Query: "wislizenii washoe county" ; Times: 1
+	Query: "bufo punctatus inyo county" ; Times: 1
+	Query: "Bufo nelsoni" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 230 download events in this period)
+Total number of records downloaded: 2429
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 10
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupinambis" ; Times: 1
+	Query: "&#34;Sauromalus ater&#34; Arizona" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+
+
+End of report.
