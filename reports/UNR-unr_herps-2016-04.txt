@@ -1,0 +1,110 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 154
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-07 ; Times: 5
+	Date: 2016-04-26 ; Times: 2
+	Date: 2016-04-29 ; Times: 3
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-23 ; Times: 2
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Emoia boettgeri" ; Times: 2
+	Query: "Lampropeltis pyromelana type:specimen mappable:1" ; Times: 1
+	Query: "Elaphe taeniura" ; Times: 2
+	Query: "pyromelana" ; Times: 3
+	Query: "spea washoe county" ; Times: 1
+	Query: "dendrelaphis feldman" ; Times: 2
+	Query: "Eumeces gilberti Nevada county" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "elgaria solano" ; Times: 2
+	Query: "phrynosoma hernandesi stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Varanus griseus" ; Times: 2
+	Query: "eublepharis" ; Times: 2
+	Query: "Skiltonianus Nevada county" ; Times: 2
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 2
+	Query: "Dipsosaurus dorsalis county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "intermontana washoe county" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1312 download events in this period)
+Total number of records downloaded: 2556
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-13 ; Times: 2
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-16 ; Times: 2
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Dipsosaurus dorsalis county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "lerista" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "dipsosaurus dorsalis mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "Rhyacotriton kezeri" ; Times: 1
+
+
+End of report.
