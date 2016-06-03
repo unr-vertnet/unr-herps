@@ -1,0 +1,85 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 85
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 4
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 7
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-26 ; Times: 5
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "uta stansburiana distance(location,geopoint(40.313043208880906,-115.0927734375))&lt;100000" ; Times: 3
+	Query: "Taeniatus washoe county" ; Times: 1
+	Query: "pituophis virginia" ; Times: 2
+	Query: "Lampropeltis triangulum amaura" ; Times: 2
+	Query: "uta stansburiana distance(location,geopoint(40.27952566881291,-115.83984375))&lt;131534" ; Times: 2
+	Query: "Trimorphodon biscutatus Nevada" ; Times: 1
+	Query: "dodo" ; Times: 4
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "uta stansburiana nevada year &gt;= 1950 year &lt;= 1960 distance(location,geopoint(40.27952566881291,-115.83984375))&lt;131534" ; Times: 1
+	Query: "trimorphodon stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "uta stansburiana distance(location,geopoint(40.48038142908172,-115.927734375))&lt;100000" ; Times: 1
+	Query: "uta stansburiana distance(location,geopoint(40.27952566881291,-115.83984375))&lt;104608" ; Times: 1
+	Query: "Phrynosoma douglas" ; Times: 1
+	Query: "Anguis" ; Times: 1
+	Query: "uta stansburiana distance(location,geopoint(40.27952566881291,-115.72998046875))&lt;132409.30989992278" ; Times: 1
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 327 download events in this period)
+Total number of records downloaded: 521
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 8
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Lygosoma quadrupes" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "Phrynosoma platyrhinos CA" ; Times: 2
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "Anguis fragilis" ; Times: 1
+
+
+End of report.
