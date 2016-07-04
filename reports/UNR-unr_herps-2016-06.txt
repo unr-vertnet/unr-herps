@@ -1,0 +1,153 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 843
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 85
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-23 ; Times: 3
+	Date: 2016-06-22 ; Times: 16
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-16 ; Times: 8
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 14
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-03 ; Times: 8
+	Date: 2016-06-02 ; Times: 9
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-19 ; Times: 11
+	Date: 2016-06-04 ; Times: 6
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:6000 institutioncode:UNR" ; Times: 1
+	Query: "reptilia county:&#34;Mono&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 2
+	Query: "amphibia county:&#34;Douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "amphibia county:&#34;Alpine&#34;" ; Times: 1
+	Query: "catalognumber:201 institutioncode:UNR" ; Times: 2
+	Query: "reptilia county:&#34;Douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Crotalus stephensi" ; Times: 4
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "Python molurus " ; Times: 2
+	Query: "Chionactis inyo" ; Times: 5
+	Query: "Reptilia 1003" ; Times: 1
+	Query: "amphibia county:&#34;douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Phyllorhynchus Nevada" ; Times: 9
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "coleonyx nevada" ; Times: 4
+	Query: "Reptilia 4058" ; Times: 2
+	Query: "catalognumber:7050 institutioncode:UNR" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "canorus county:&#34;mono&#34;" ; Times: 1
+	Query: "crotalus stephensi" ; Times: 2
+	Query: "Eumeces skiltonianus Nevada" ; Times: 2
+	Query: "urosaurus ornatus Arizona year &gt;= 1985 year &lt;= 2016" ; Times: 4
+	Query: "catalognumber:700 institutioncode:UNR" ; Times: 1
+	Query: "catalognumber:7000 institutioncode:UNR" ; Times: 1
+	Query: "Rhinocheilus lecontei Nevada" ; Times: 1
+	Query: "reptilia county:&#34;douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 4
+	Query: "Reptilia 3459" ; Times: 1
+	Query: "Lampropeltis triangulum hondurensis" ; Times: 1
+	Query: "Reptilia 6124" ; Times: 1
+	Query: "amphibia county:&#34;Mono&#34;" ; Times: 1
+	Query: "institutioncode:UNR" ; Times: 3
+	Query: "Lampropeltis alterna 1" ; Times: 3
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Chionactis occipitalis stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "Chionactis talpina" ; Times: 1
+	Query: "reptilia county:&#34;Mono&#34; stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 2000" ; Times: 1
+	Query: "Masticophis taeniatus Nevada" ; Times: 2
+	Query: "catalognumber:5262 institutioncode:UNR" ; Times: 1
+	Query: "Sonora semiannulata Nevada" ; Times: 4
+	Query: "Tropiduridae 1" ; Times: 2
+	Query: "ctenosaura quinquecarinata" ; Times: 1
+	Query: "reptilia county:&#34;Mono&#34;" ; Times: 1
+	Query: "catalognumber:202 institutioncode:UNR" ; Times: 2
+	Query: "Reptilia 3460" ; Times: 1
+	Query: "Reptilia 3462" ; Times: 1
+	Query: "reptilia county:&#34;lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1052 download events in this period)
+Total number of records downloaded: 1181
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: India ; Times: 1
+	Country: United States ; Times: 21
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-08 ; Times: 2
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-07 ; Times: 3
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 6
+	Date: 2016-06-02 ; Times: 7
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-14 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "elgaria coerulea" ; Times: 1
+	Query: "Cuora" ; Times: 2
+	Query: "Tylototriton" ; Times: 2
+	Query: "Graptemys" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "chamaeleo jacksonii" ; Times: 1
+	Query: "Bothriechis" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "crotalus stephensi" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "genus:kinixys" ; Times: 1
+	Query: "specificepithet:wislizenii genus:gambelia mappable:1" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "crotalus pyrrhus" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Sceloporus variabilis" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 6
+	Query: "Masticophis taeniatus Nevada" ; Times: 3
+	Query: "Gopherus" ; Times: 1
+	Query: "specificepithet:marmorata family:Emydidae" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Rhadinaea" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Eumeces skiltonianus Nevada" ; Times: 1
+	Query: "ctenosaura quinquecarinata" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
