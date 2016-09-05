@@ -1,0 +1,102 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 354
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-15 ; Times: 3
+	Date: 2016-08-16 ; Times: 10
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-22 ; Times: 4
+	Date: 2016-08-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Taricha sierrae" ; Times: 1
+	Query: "genus:pseudopus" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 1
+	Query: "triangulum nevada" ; Times: 3
+	Query: "Dipsosaurus dorsalis Nevada" ; Times: 1
+	Query: "Ambystoma tigrinum Nevada" ; Times: 1
+	Query: "Crotalus viridis Nevada" ; Times: 3
+	Query: "varanus rudicollis type:specimen" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Hyla regilla Nevada UNR" ; Times: 1
+	Query: "varanus rudicollis" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Bufo stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "specificepithet:boreas genus:Bufo county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "charina mono" ; Times: 3
+	Query: "pyromelana nevada" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 924 download events in this period)
+Total number of records downloaded: 2202
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-16 ; Times: 4
+	Date: 2016-08-18 ; Times: 5
+	Date: 2016-08-24 ; Times: 3
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-30 ; Times: 9
+	Date: 2016-08-22 ; Times: 2
+	Date: 2016-08-25 ; Times: 4
+	Date: 2016-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Clark Mountain" ; Times: 2
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Thamnophis elegans Nevada" ; Times: 1
+	Query: "Bufo canorus" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "Quail Spring" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Dipsosaurus dorsalis Nevada" ; Times: 2
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Black Rock Spring" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 2
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "Rana muscosa" ; Times: 1
+	Query: "type:specimen genus:Urosaurus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+
+
+End of report.
