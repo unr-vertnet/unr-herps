@@ -1,0 +1,58 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 256
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Portugal ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-08 ; Times: 2
+	Date: 2016-09-09 ; Times: 1
+	Date: 2016-09-02 ; Times: 3
+	Date: 2016-09-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana catesbeiana  1" ; Times: 2
+	Query: "pituophis virginia" ; Times: 3
+	Query: "specificepithet:nelsoni family:Bufonidae stateprovince:&#34;Nevada&#34; mappable:1" ; Times: 2
+	Query: "Rana catesbeiana 1" ; Times: 1
+	Query: "specificepithet:boreas family:Bufonidae county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "specificepithet:punctatus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Clemmys marmorata Nevada" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 811 download events in this period)
+Total number of records downloaded: 547
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-12 ; Times: 3
+	Date: 2016-09-09 ; Times: 5
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "rana pipiens" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "clelia" ; Times: 2
+
+
+End of report.
