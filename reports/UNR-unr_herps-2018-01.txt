@@ -1,0 +1,111 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 146
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-09 ; Times: 13
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-11 ; Times: 4
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-21 ; Times: 2
+	Date: 2018-01-04 ; Times: 3
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-16 ; Times: 4
+	Date: 2018-01-24 ; Times: 8
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-17 ; Times: 7
+	Date: 2018-01-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; year &gt;= 1980" ; Times: 1
+	Query: "Rhadinaea decorata" ; Times: 2
+	Query: "Notaden bennettii hassex:1" ; Times: 2
+	Query: "specificepithet:multicarinata genus:Elgaria county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "pyromelana infralabialis" ; Times: 13
+	Query: "simandle" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34; institutioncode:UNR" ; Times: 1
+	Query: "Corallus" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 2
+	Query: "Clelia clelia" ; Times: 2
+	Query: "&#34;corral springs&#34; specificepithet:exsul" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 2
+	Query: "Under board country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 3
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "Under tin reptilia country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "infralabialis" ; Times: 1
+	Query: "genus:Chionactis county:&#34;inyo&#34;" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Neobatrachus sudelli hassex:1" ; Times: 2
+	Query: "specificepithet:attenuatus genus:Batrachoseps county:&#34;Sacramento&#34;" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "genus:Charina stateprovince:&#34;Nevada&#34; year &gt;= 1980" ; Times: 1
+	Query: "genus:taricha (&#34;el dorado&#34; OR &#34;amador&#34; OR &#34;calaveras&#34;)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1398 download events in this period)
+Total number of records downloaded: 944
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 22
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 3
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-15 ; Times: 4
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Rana boylii" ; Times: 2
+	Query: "genus:Rana specificepithet:muscosa" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "spea intermontana" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "county:&#34;San Mateo&#34; stateprovince:&#34;California&#34; (Amphibia OR Reptilia)" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:exsul genus:bufo" ; Times: 1
+	Query: "litoria caerulea" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Phrynosoma hernandesi mappable:1" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Batrachoseps county:&#34;Sacramento&#34;" ; Times: 1
+	Query: "amphibia madagascar" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+
+End of report.
