@@ -1,0 +1,154 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 605
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 58
+	Country: Italy ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-17 ; Times: 20
+	Date: 2017-12-15 ; Times: 4
+	Date: 2017-12-12 ; Times: 14
+	Date: 2017-12-13 ; Times: 10
+	Date: 2017-12-11 ; Times: 20
+	Date: 2017-12-09 ; Times: 8
+	Date: 2017-12-08 ; Times: 3
+	Date: 2017-12-18 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "river specificepithet:ater family:Iguanidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "genus:gehyra country:&#34;marshall&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:boettgeri genus:emoia country:&#34;MARSHALL&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "river family:Viperidae stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "creek family:Emydidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "river family:Teiidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Cnemidophorus county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "wash family:Viperidae stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "river family:Eublepharidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "emoia arnoensis" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "(Idaho Amphibia) year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:ARNOENSIS genus:EMOIA country:&#34;MARSHALL&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "creek family:Scincidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:boettgeri class:reptilia country:&#34;marshall&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:boettgeri genus:EMOIA country:&#34;MARSHALL&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "bank family:Boidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Leptotyphlopidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "river family:Trionychidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "river family:Leptotyphlopidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "family:Emydidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "genus:lamprolepis class:reptilia country:&#34;marshall&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "river family:Crotaphytidae stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "river specificepithet:dorsalis family:Iguanidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "wash family:Crotaphytidae stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "wash family:Phrynosomatidae stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "bank family:Colubridae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "bank specificepithet:ater family:Iguanidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "creek family:Crotaphytidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:lamprolepis country:&#34;marshall&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:arnoensis class:reptilia country:&#34;marshall&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "river family:Xantusiidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "creek family:Teiidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:lamprolepis country:&#34;MARSHALL&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "river family:Boidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "wash family:Eublepharidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "stream family:Teiidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "wash family:Teiidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "specificepithet:arnoensis genus:emoia country:&#34;MARSHALL&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stream family:Colubridae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "creek family:Boidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:OCEANICA genus:GEHYRA country:&#34;MARSHALL&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Trionychidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "river family:Colubridae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "creek family:Boidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "river family:Phrynosomatidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "wash family:Colubridae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "stream family:Phrynosomatidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "creek family:Phrynosomatidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "stream family:Anguidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "creek family:Xantusiidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "bank family:Iguanidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "creek family:Viperidae stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "class:reptilia country:&#34;marshall&#34; basisofrecord:PreservedSpecimen" ; Times: 17
+	Query: "channel family:Phrynosomatidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "river family:Boidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "river family:Crotaphytidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen (Idaho Amphibia ) year &gt;= 1990 year &lt;= 2017" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 674 download events in this period)
+Total number of records downloaded: 1364
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-04 ; Times: 3
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-12 ; Times: 3
+	Date: 2017-12-13 ; Times: 21
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "vntype:specimen (Idaho Amphibia ) year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Leptotyphlopidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Emydidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "Phrynosoma" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Trionychidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "leiopython" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "class:reptilia country:&#34;marshall&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+
+
+End of report.
