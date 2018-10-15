@@ -1,0 +1,96 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 129
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 24
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-18 ; Times: 15
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "eunectes notaeus" ; Times: 1
+	Query: "geoemyda spengleri" ; Times: 2
+	Query: "Clark county Nevada Crotalus" ; Times: 1
+	Query: "crotalus Stephensi Clark county Nevada" ; Times: 1
+	Query: "paramesotriton" ; Times: 2
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 3
+	Query: "sibon nebulatus" ; Times: 2
+	Query: "genus:Bunopus year &gt;= 1980" ; Times: 1
+	Query: "Death Valley Crotalus" ; Times: 1
+	Query: "specificepithet:pipiens county:&#34;esmeralda&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:bufo locality:afton canyon" ; Times: 1
+	Query: "Crotalus Stephensi Nevada" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "class:amphibia county:&#34;mineral&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "varanus griseus" ; Times: 2
+	Query: "Kinixys nogueyi" ; Times: 12
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1892 download events in this period)
+Total number of records downloaded: 499
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-03 ; Times: 3
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-05 ; Times: 1
+	Date: 2018-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "occidozyga" ; Times: 1
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "nerodia fasciata pictiventris" ; Times: 1
+	Query: "clemmys marmorata" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "Teratoscincus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "Masticophis flagellum piceus" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Taricha torosa torosa stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+
+
+End of report.
