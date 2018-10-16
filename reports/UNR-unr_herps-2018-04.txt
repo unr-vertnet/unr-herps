@@ -1,0 +1,161 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 347
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 18
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-22 ; Times: 3
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-21 ; Times: 4
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 4
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Xantusiidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "specificepithet:alleni genus:micrurus" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "family:Leptotyphlopidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "specificepithet:calyptratus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:trimorphodon stateprovince:&#34;nevada&#34;" ; Times: 3
+	Query: "Platyrhinos Washoe County" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "lampropeltis ruthveni" ; Times: 2
+	Query: "family:Boidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 3
+	Query: "family:Scincidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; year &gt;= 1990" ; Times: 1
+	Query: "Trimorphodon biscutatus Nevada" ; Times: 1
+	Query: "genus:crotalus county:&#34;washoe&#34;" ; Times: 2
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 3
+	Query: "infralabialis" ; Times: 2
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "Lampropeltis pyromelana stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Uta Washoe County" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "Crotalus stephensi stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "lygosoma quadrupes" ; Times: 1
+	Query: "intermontana washoe county" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 1359 download events in this period)
+Total number of records downloaded: 1135
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 64
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 27
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-17 ; Times: 5
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-23 ; Times: 8
+	Date: 2018-04-22 ; Times: 6
+	Date: 2018-04-20 ; Times: 5
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "genus:Callisaurus sex:male OR female" ; Times: 3
+	Query: "family:Xantusiidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "genus:Phyllodactylus sex:male OR female" ; Times: 1
+	Query: "genus:Crotaphytus sex:Male OR Female" ; Times: 1
+	Query: "family:Colubridae (stomach)" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "genus:Rhinocheilus sex:male OR female" ; Times: 1
+	Query: "genus:Thamnophis sex:male OR female" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "genus:charina sex:male OR female" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (canyon)" ; Times: 2
+	Query: "family:Scincidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "genus:Anolis sex:male OR female" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "sibon nebulatus" ; Times: 1
+	Query: "genus:pituophis sex:male OR female" ; Times: 1
+	Query: "genus:masticophis sex:male OR female" ; Times: 1
+	Query: "genus:Uta sex:male OR female" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "genus:Sceloporus sex:male OR female" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "genus:Sauromalus sex:Male OR Female" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:anolis sex:male OR female" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "genus:callisaurus sex:male OR female" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "genus:Gambelia sex:male OR female" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "family:Leptotyphlopidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "ranA hasmass:1 mappable:1" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "genus:Elgaria sex:male OR female" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+	Query: "genus:Phrynosoma sex:Male OR Female" ; Times: 1
+
+
+End of report.
