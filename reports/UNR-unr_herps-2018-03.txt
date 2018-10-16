@@ -1,0 +1,125 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 143
+Number of records retrieved in searches: 671
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 138
+	Country: Turkey ; Times: 4
+	Country: Israel ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 5
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-07 ; Times: 7
+	Date: 2018-03-02 ; Times: 8
+	Date: 2018-03-23 ; Times: 7
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-03 ; Times: 3
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 8
+	Date: 2018-03-28 ; Times: 17
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 37
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-27 ; Times: 19
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-20 ; Times: 8
+	Date: 2018-03-21 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Nye county Crotalus Stephensi" ; Times: 1
+	Query: "specificepithet:jobiensis genus:Varanus" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 6
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 2
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 3
+	Query: "genus:Hemitheconyx specificepithet:caudicinctus" ; Times: 5
+	Query: "genus:Strophurus specificepithet:williamsi" ; Times: 5
+	Query: "genus:Tylototriton specificepithet:verrucosus" ; Times: 6
+	Query: "(leidy)" ; Times: 1
+	Query: "genus:Corucia specificepithet:zebrata" ; Times: 5
+	Query: "genus:Charina specificepithet:reinhardtii" ; Times: 5
+	Query: "genus:Tarentola specificepithet:annularis" ; Times: 2
+	Query: "genus:Corallus specificepithet:caninus" ; Times: 5
+	Query: "genus:Cuora specificepithet:amboinensis" ; Times: 2
+	Query: "genus:Phelsuma specificepithet:laticauda" ; Times: 2
+	Query: "Crotalus stateprovince:&#34;Nevada&#34; year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "genus:Crotaphytus specificepithet:bicinctores" ; Times: 5
+	Query: "genus:Spilotes specificepithet:pullatus" ; Times: 2
+	Query: "genus:Draco specificepithet:maculatus" ; Times: 2
+	Query: "genus:Teratoscincus specificepithet:roborowskii" ; Times: 3
+	Query: "Emoia arnoensis" ; Times: 1
+	Query: "genus:Salvadora specificepithet:hexalepis" ; Times: 2
+	Query: "Lampropeltis stateprovince:&#34;Nevada&#34; year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "genus:Shinisaurus specificepithet:crocodilurus" ; Times: 5
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 2
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:hypsiglena stateprovince:&#34;California&#34; year &gt;= 1931 year &lt;= 1975" ; Times: 1
+	Query: "genus:Thecadactylus specificepithet:rapicauda" ; Times: 2
+	Query: "genus:Takydromus specificepithet:sexlineatus" ; Times: 2
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 5
+	Query: "genus:Varanus specificepithet:rudicollis" ; Times: 5
+	Query: "genus:Masticophis specificepithet:taeniatus" ; Times: 2
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 5
+	Query: "genus:Elaphe specificepithet:radiata" ; Times: 5
+	Query: "Trimorphodon biscutatus lambda" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 2
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 5
+	Query: "specificepithet:scutulatus stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "Chionactis stateprovince:&#34;Nevada&#34; year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "genus:Clelia specificepithet:clelia" ; Times: 5
+	Query: "genus:Alytes specificepithet:obstetricans" ; Times: 2
+	Query: "genus:Sauromalus specificepithet:ater" ; Times: 2
+	Query: "Crotalus stephensi stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Ahaetulla specificepithet:nasuta" ; Times: 5
+	Query: "genus:Bunopus specificepithet:tuberculatus" ; Times: 5
+	Query: "vntype:specimen order:Anura institutioncode:UNR" ; Times: 1
+	Query: "Trimorphodon lambda" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "varanus griseus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1284 download events in this period)
+Total number of records downloaded: 2119
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-26 ; Times: 4
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Kinixys vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen order:Anura institutioncode:UNR" ; Times: 1
+	Query: "Gekko gecko" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "Emoia arnoensis" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "specificepithet:toroSA genus:taricha county:&#34;SAN DIEGO&#34;" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
