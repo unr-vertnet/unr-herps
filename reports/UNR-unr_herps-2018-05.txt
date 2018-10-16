@@ -1,0 +1,149 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 3025
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 85
+	Country: Australia ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 18
+	Date: 2018-05-11 ; Times: 3
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 8
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-23 ; Times: 23
+	Date: 2018-05-24 ; Times: 19
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pipiens genus:Rana institutioncode:UNR" ; Times: 3
+	Query: "specificepithet:Lutosus genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "varanus griseus" ; Times: 1
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:UNR" ; Times: 3
+	Query: "specificepithet:laevigata genus:Uperoleia institutioncode:UNR" ; Times: 3
+	Query: "specificepithet:pulchra genus:Kaloula institutioncode:UNR" ; Times: 3
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:UNR" ; Times: 3
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:UNR" ; Times: 3
+	Query: "micrurus alleni" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:UNR" ; Times: 4
+	Query: "specificepithet:belliana nogueyi genus:Kinixys" ; Times: 3
+	Query: "mabuya carinata" ; Times: 1
+	Query: "specificepithet:ornata genus:Ceratophrys institutioncode:UNR" ; Times: 3
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:UNR" ; Times: 3
+	Query: "order:squamata county:&#34;douglas&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Churchill&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Hypsiglena torquata Nevada" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:intermontana genus:Spea institutioncode:UNR" ; Times: 3
+	Query: "order:squamata county:&#34;storey&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "crotalus cerastes death valley" ; Times: 1
+	Query: "specificepithet:obstetricans genus:Alytes institutioncode:UNR" ; Times: 4
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1960 year &lt;= 2006" ; Times: 1
+	Query: "specificepithet:coronatum genus:Phrynosoma county:&#34;San Diego&#34;" ; Times: 2
+	Query: "genus:Phrynosoma county:&#34;Churchill&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "&#34;Crotalus atrox&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:UNR" ; Times: 3
+	Query: "Gambelia Washoe lake" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:UNR" ; Times: 3
+	Query: "Urosaurus graciosus Nevada" ; Times: 1
+	Query: "Phrynocephalus arabicus" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;humboldt&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "gambelia washoe county" ; Times: 3
+	Query: "order:squamata county:&#34;lyon&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Alpine&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Masticophis taeniatus Nevada" ; Times: 1
+	Query: "specificepithet:orientalis genus:Bombina institutioncode:UNR" ; Times: 3
+	Query: "crotalus cerastes nevada" ; Times: 1
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:UNR" ; Times: 5
+	Query: "Clark county crotalus Stephensi" ; Times: 1
+	Query: "elgaria multicarinata nevada" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina county:&#34;washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Gambelia Washoe county" ; Times: 2
+	Query: "specificepithet:lima genus:Occidozyga institutioncode:UNR" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1178 download events in this period)
+Total number of records downloaded: 511
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Thailand ; Times: 2
+	Country: Spain ; Times: 10
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-18 ; Times: 6
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 4
+	Date: 2018-05-23 ; Times: 2
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:rhinocheilus sex:male OR female" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Paramesotriton hongkongensis" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "class:amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Lampropeltis annulata" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1960 year &lt;= 2006" ; Times: 2
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Bufo punctatus" ; Times: 1
+	Query: "Plethodon albagula" ; Times: 1
+	Query: "genus:arizona sex:male OR female" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;SINALOA&#34;" ; Times: 2
+	Query: "specificepithet:muscosa genus:Rana" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+
+
+End of report.
