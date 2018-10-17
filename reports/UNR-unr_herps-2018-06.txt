@@ -1,0 +1,114 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 220
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-29 ; Times: 3
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-14 ; Times: 3
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gambelia 5586" ; Times: 2
+	Query: "specificepithet:coronatum genus:Phrynosoma county:&#34;San Diego&#34;" ; Times: 1
+	Query: "fire belly" ; Times: 1
+	Query: "Batrachoseps attenuatus (Nevada)" ; Times: 1
+	Query: "class:amphibia county:&#34;Inyo&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:stansburiana genus:uta county:&#34;esmeralda&#34;" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;washoe&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "specificepithet:punctatus class:amphibia county:&#34;Inyo&#34;" ; Times: 2
+	Query: "nevada lizard" ; Times: 1
+	Query: "Uta stansburiana distance(location,geopoint(38.20389034675616,-118.00510289771796))&lt;57236" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "family:Chamaeleonidae institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:boylii genus:rana county:&#34;el dorado&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "garnotii indonesia" ; Times: 1
+	Query: "Kinixys nogueyi" ; Times: 3
+	Query: "specificepithet:punctatus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;inyo&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1169 download events in this period)
+Total number of records downloaded: 568
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 2
+	Country: Spain ; Times: 7
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 5
+	Date: 2018-06-06 ; Times: 8
+	Date: 2018-06-05 ; Times: 10
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-03 ; Times: 4
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Uta stansburiana distance(location,geopoint(38.20389034675616,-118.00510289771796))&lt;57236" ; Times: 1
+	Query: "family:Chamaeleonidae institutioncode:UNR" ; Times: 1
+	Query: "taricha granulosa" ; Times: 3
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "fire belly" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "class:reptilia locality:baker" ; Times: 2
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Crotalus mitchelli" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Taricha sierrae" ; Times: 1
+	Query: "valliceps" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Siren intermedia" ; Times: 1
+	Query: "pseudemys texana" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "rainbow trout" ; Times: 2
+	Query: "Rhyacotriton kezeri" ; Times: 1
+
+
+End of report.
