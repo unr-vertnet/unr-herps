@@ -1,0 +1,104 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 87
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-22 ; Times: 4
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chionactis county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon (lead)" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 4
+	Query: "genus:Charina county:&#34;El dorado&#34;" ; Times: 1
+	Query: "Coleonyx mitratus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1416 download events in this period)
+Total number of records downloaded: 2349
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-19 ; Times: 4
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-09 ; Times: 4
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-10 ; Times: 4
+	Date: 2018-08-08 ; Times: 3
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-17 ; Times: 2
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-07 ; Times: 3
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Colubridae" ; Times: 2
+	Query: "hELODERMA" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "genus:Coluber OR Masticophis sex:male OR female" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "genus:Cnemidophorus OR Aspidoscelis sex:male OR female" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "Crotalus pyrrhus" ; Times: 1
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "gambelia" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Sceloporus variabilis variabilis" ; Times: 1
+	Query: "genus:Lichanura OR Charina sex:male OR female" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "genus:Clelia" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 2
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "genus:Sauromalus sex:male OR female" ; Times: 2
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "rana muscosa" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia" ; Times: 1
+
+
+End of report.
