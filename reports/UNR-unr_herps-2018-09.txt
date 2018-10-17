@@ -1,0 +1,97 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 233
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Austria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 5
+	Date: 2018-09-01 ; Times: 3
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gilberti class:reptilia county:&#34;Sacramento&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "UNR 7203" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 1
+	Query: "partelloi" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Chionactis county:&#34;Inyo&#34;" ; Times: 1
+	Query: "genus:Thecadactylus year &gt;= 1990" ; Times: 1
+	Query: "family:colubridae institutioncode:UNR" ; Times: 2
+	Query: "UNR 6999" ; Times: 3
+	Query: "Phelsuma madagascariensis grandis" ; Times: 1
+	Query: "class:amphibia locality:whitehorse" ; Times: 1
+	Query: "specificepithet:gilberti genus:eumeces stateprovince:&#34;California&#34; year &gt;= 1985 year &lt;= 2010" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "genus:Thecadactylus year &gt;= 2000" ; Times: 1
+	Query: "UNR 7283" ; Times: 1
+	Query: "phrynosoma sp" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 846 download events in this period)
+Total number of records downloaded: 1381
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-17 ; Times: 8
+	Date: 2018-09-19 ; Times: 5
+	Date: 2018-09-18 ; Times: 16
+	Date: 2018-09-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "Rhadinaea decorata" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "siren intermedia" ; Times: 2
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "specificepithet:mitchelli genus:Crotalus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "Lampropeltis triangulum annulata" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "specificepithet:vehiculum genus:plethodon" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "specificepithet:dunni genus:plethodon" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 2
+
+
+End of report.
