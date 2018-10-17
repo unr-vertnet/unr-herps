@@ -1,0 +1,85 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 301
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Australia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-10 ; Times: 5
+	Date: 2018-07-08 ; Times: 3
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-25 ; Times: 3
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pyromelana genus:lampropeltis stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "amphibia regilla Hyla" ; Times: 2
+	Query: "Ptychozoon kuhli" ; Times: 2
+	Query: "specificepithet:coerulea genus:Elgaria county:&#34;Alpine&#34; stateprovince:&#34;California&#34;" ; Times: 10
+	Query: "genus:Crotalus county:&#34;Alpine&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "locality:fish lake county:&#34;nye&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:thecadactylus year &gt;= 1990" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Alpine&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:pipiens genus:rana stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:punctatus class:amphibia county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria county:&#34;Plumas&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "micrurus alleni" ; Times: 1
+	Query: "sceloporus graciosus clark county" ; Times: 1
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "genus:rana year &gt;= 1953 year &lt;= 1953 month &gt;= 6 month &lt;= 6" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 977 download events in this period)
+Total number of records downloaded: 151
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 2
+	Country: South Africa ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 5
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-09 ; Times: 3
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "kinixys belliana" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "order:Squamata hasmass:1" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren" ; Times: 1
+	Query: "Platyurus platyurus" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "Cosymbotus platyurus" ; Times: 1
+	Query: "order:Squamata year &gt;= 1960 year &lt;= 2017 lengthtype:total length haslength:1" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+
+
+End of report.
