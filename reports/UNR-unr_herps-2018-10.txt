@@ -1,0 +1,90 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 36
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Ensatina Nevada county" ; Times: 1
+	Query: "Eunectes notaeus" ; Times: 1
+	Query: "Scaphiophryne gottlebei" ; Times: 1
+	Query: "Rana boy" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1300 download events in this period)
+Total number of records downloaded: 1214
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: France ; Times: 2
+	Country: United States ; Times: 13
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-25 ; Times: 5
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 3
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-12 ; Times: 3
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "specificepithet:schlegelii genus:Bothriechis" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "county:&#34;Douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "Sonora semiannulata" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 2
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "pseudemys floridana" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Corucia zebrata" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Nerodia rhombifera" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "pseudemys texana" ; Times: 1
+	Query: "rana muscosa" ; Times: 1
+
+
+End of report.
