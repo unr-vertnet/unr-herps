@@ -1,0 +1,97 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 227
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: China ; Times: 2
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-09 ; Times: 3
+	Date: 2018-12-15 ; Times: 2
+	Date: 2018-12-07 ; Times: 5
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cerastes gasperettii" ; Times: 1
+	Query: "Geoemyda spengleri" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "locality:Bakersfield county:&#34;Kern&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 1987 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "Crotalus scutulatus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "Crotalus viridis county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "uromastyx maliensis" ; Times: 2
+	Query: "Shinisaurus crocodilurus" ; Times: 1
+	Query: "Japalura splendida" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "rana cascade" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 2
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+	Query: "Chionactis occipitalis stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 809 download events in this period)
+Total number of records downloaded: 636
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: China ; Times: 2
+	Country: Taiwan ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-22 ; Times: 3
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 10
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "amphibia vietnam" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Teratoscincus roborowskii" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "Crotalus viridis county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Japalura splendida" ; Times: 1
+	Query: "goniurosaurus" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 2
+	Query: "vietnam" ; Times: 1
+
+
+End of report.
