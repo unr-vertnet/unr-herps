@@ -1,0 +1,105 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 303
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: United Kingdom ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-30 ; Times: 3
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-08 ; Times: 2
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 6
+	Date: 2019-03-15 ; Times: 20
+	Date: 2019-03-14 ; Times: 9
+	Date: 2019-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhadinaea decorata" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 1
+	Query: "Clelia clelia" ; Times: 1
+	Query: "Python bivittatus" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Lampropeltis ruthveni" ; Times: 1
+	Query: "Trimorphodon lambda" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "Corallus caninus" ; Times: 1
+	Query: "Gonyosoma oxycephalum" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Zebra-Tailed Lizard" ; Times: 1
+	Query: "locality:Sonora junction" ; Times: 1
+	Query: "145 arizona elegans" ; Times: 2
+	Query: "Lampropeltis annulata" ; Times: 1
+	Query: "Sonora semiannulata washoe county" ; Times: 1
+	Query: "Hydrodynastes gigas" ; Times: 1
+	Query: "Cerastes gasperettii" ; Times: 1
+	Query: "genus:Elgaria stateprovince:&#34;Nevada&#34;" ; Times: 5
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "Python regius" ; Times: 1
+	Query: "genus:hyla county:&#34;josephine&#34;" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Sauromalus Nevada" ; Times: 2
+	Query: "Xenopeltis unicolor" ; Times: 1
+	Query: "Eunectes notaeus" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Alpine&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eryx colubrinus" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "eagle stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Micrurus alleni" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1281 download events in this period)
+Total number of records downloaded: 185
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 3
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Crotalus haslength:1" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Zebra-Tailed Lizard" ; Times: 1
+	Query: "specificepithet:marmorata family:emydidae" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "specificepithet:boreas genus:bufo county:&#34;humboldt&#34;" ; Times: 1
+	Query: "genus:hyla county:&#34;josephine&#34;" ; Times: 1
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+
+
+End of report.
