@@ -1,0 +1,136 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 1395
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 91
+	Country: Canada ; Times: 1
+	Country: Micronesia ; Times: 6
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 3
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 45
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-20 ; Times: 3
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-29 ; Times: 2
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-12 ; Times: 11
+	Date: 2019-05-11 ; Times: 3
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-13 ; Times: 11
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 5
+	Date: 2019-05-16 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "class:Reptilia country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "pyromelana" ; Times: 1
+	Query: "catalognumber:507 institutioncode:UNR" ; Times: 2
+	Query: "specificepithet:rudicollis genus:Varanus" ; Times: 1
+	Query: "UNR 6999" ; Times: 2
+	Query: "uromastyx ocellatus" ; Times: 3
+	Query: "sonora semiannulata washoe county" ; Times: 1
+	Query: "catalognumber:7501 institutioncode:UNR" ; Times: 1
+	Query: "genus:Lamprolepis country:&#34;Marshall Islands&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:7875 institutioncode:UNR" ; Times: 2
+	Query: "catalognumber:7861 institutioncode:UNR" ; Times: 2
+	Query: "catalognumber:7203 institutioncode:UNR" ; Times: 2
+	Query: "catalognumber:7871 institutioncode:UNR" ; Times: 2
+	Query: "UNR 7203" ; Times: 2
+	Query: "catalognumber:7874 institutioncode:UNR" ; Times: 2
+	Query: "sonora semiannulata nevada" ; Times: 1
+	Query: "crotalus churchill county nevada" ; Times: 1
+	Query: "rhinocheilus washoe" ; Times: 1
+	Query: "catalognumber:7863 institutioncode:UNR" ; Times: 2
+	Query: "sceloporus magister washoe" ; Times: 5
+	Query: "washoe Crotaphytus" ; Times: 2
+	Query: "crotalus lutosus" ; Times: 1
+	Query: "Emoia arnoensis" ; Times: 1
+	Query: "Lampropeltis pyromelana infralabialis" ; Times: 1
+	Query: "UNR 7283" ; Times: 1
+	Query: "catalognumber:7865 institutioncode:UNR" ; Times: 1
+	Query: "sonora semiannulata storey county" ; Times: 1
+	Query: "catalognumber:7864 institutioncode:UNR" ; Times: 2
+	Query: "catalognumber:7862 institutioncode:UNR" ; Times: 2
+	Query: "catalognumber:7194 institutioncode:UNR" ; Times: 2
+	Query: "washoe phrynosoma" ; Times: 2
+	Query: "gbifdatasetid:c62f7574-d65a-4018-87a2-b96d6df5231b" ; Times: 1
+	Query: "catalognumber:6999 institutioncode:UNR" ; Times: 2
+	Query: "Bufo institutioncode:UNR" ; Times: 8
+	Query: "specificepithet:smaragdina country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "catalognumber:7195 institutioncode:UNR" ; Times: 2
+	Query: "catalognumber:568 institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:smaragdina genus:Lamprolepis country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "catalognumber:7872 institutioncode:UNR" ; Times: 2
+	Query: "Callisaurus washoe" ; Times: 3
+	Query: "washoe Gambelia" ; Times: 1
+	Query: "specificepithet:dumerilii genus:Varanus" ; Times: 2
+	Query: "Sceloporus magister pershing county nevada" ; Times: 1
+	Query: "catalognumber:3035 institutioncode:UNR" ; Times: 2
+	Query: "catalognumber:5033 institutioncode:UNR" ; Times: 2
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "dodo" ; Times: 1
+	Query: "washoe Crotalus" ; Times: 2
+	Query: "catalognumber:7870 institutioncode:UNR" ; Times: 2
+	Query: "catalognumber:923 institutioncode:UNR" ; Times: 2
+	Query: "genus:Hemidactylus country:&#34;Marshall Islands&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Heloderma stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "catalognumber:3096 institutioncode:UNR" ; Times: 4
+	Query: "specificepithet:boreas genus:Bufo county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "catalognumber:7876 institutioncode:UNR" ; Times: 2
+	Query: "specificepithet:lutosus genus:crotalus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 940 download events in this period)
+Total number of records downloaded: 475
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-14 ; Times: 9
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 3
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rana distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "family:Eublepharidae" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "coleonyx variegatus distance(location,geopoint(36.0691829543842,-117.5349967768903))&lt;132695" ; Times: 1
+	Query: "gambelia wislizenii distance(location,geopoint(36.0691829543842,-117.5349967768903))&lt;132695" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "dipsosaurus dorsalis distance(location,geopoint(36.0691829543842,-117.5349967768903))&lt;132695" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "(reptilia) distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "sauromalus AND CA" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana" ; Times: 1
+	Query: "bufo distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "uta stansburiana distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "phrynosoma platyrhinos distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+
+
+End of report.
