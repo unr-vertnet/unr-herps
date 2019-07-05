@@ -1,0 +1,172 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 897
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 118
+	Country: Brazil ; Times: 2
+	Country: Hong Kong ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-21 ; Times: 6
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-26 ; Times: 4
+	Date: 2019-06-09 ; Times: 5
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 3
+	Date: 2019-06-17 ; Times: 1
+	Date: 2019-06-16 ; Times: 1
+	Date: 2019-06-11 ; Times: 57
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-10 ; Times: 32
+	Date: 2019-06-28 ; Times: 2
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "LAMPROPELTIS PYROMELANA" ; Times: 1
+	Query: "genus:Strophurus specificepithet:williamsi" ; Times: 1
+	Query: "genus:Tarentola specificepithet:annularis" ; Times: 1
+	Query: "family:Scincidae order:Squamata class:Reptilia country:&#34;Marshall Islands&#34;" ; Times: 3
+	Query: "genus:Spilotes specificepithet:pullatus" ; Times: 1
+	Query: "genus:Furina specificepithet:diadema" ; Times: 1
+	Query: "genus:Teratoscincus specificepithet:roborowskii" ; Times: 1
+	Query: "genus:Salvadora specificepithet:hexalepis" ; Times: 1
+	Query: "genus:Hemitheconyx specificepithet:caudicinctus" ; Times: 2
+	Query: "family:Crotaphytidae county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "family:Gekkonidae order:Squamata class:Reptilia country:&#34;Marshall Islands&#34;" ; Times: 4
+	Query: "genus:Hydrodynastes specificepithet:gigas" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 2
+	Query: "genus:Chamaeleo specificepithet:gracilis" ; Times: 1
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "genus:Thamnophis county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:chionactis county:&#34;inyo&#34; year &gt;= 1954" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "genus:Masticophis specificepithet:lateralis" ; Times: 1
+	Query: "family:Phrynosomatidae county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "family:Crotaphytidae county:&#34;Storey&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 1
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 1
+	Query: "genus:Eublepharis" ; Times: 1
+	Query: "genus:Corucia specificepithet:zebrata" ; Times: 1
+	Query: "genus:Pseudemys specificepithet:texana" ; Times: 2
+	Query: "genus:Lygosoma specificepithet:quadrupes" ; Times: 1
+	Query: "specificepithet:oceanica genus:Gehyra country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "genus:Corallus specificepithet:caninus" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 2
+	Query: "genus:Varanus specificepithet:rosenbergi" ; Times: 1
+	Query: "genus:Eremiascincus specificepithet:richardsonii" ; Times: 1
+	Query: "genus:Ptychozoon" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "family:Ranidae county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 2
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 3
+	Query: "Dodo" ; Times: 1
+	Query: "genus:Bombina specificepithet:orientalis" ; Times: 1
+	Query: "genus:Furcifer specificepithet:pardalis" ; Times: 1
+	Query: "institutioncode:UNR" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "genus:Notaden specificepithet:bennettii" ; Times: 1
+	Query: "genus:Alytes specificepithet:obstetricans" ; Times: 1
+	Query: "Micrurus alleni" ; Times: 1
+	Query: "genus:Xenopeltis specificepithet:unicolor" ; Times: 1
+	Query: "lampropeltis pyromelana infralabialis" ; Times: 1
+	Query: "genus:Geoemyda specificepithet:spengleri" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "genus:Epicrates specificepithet:cenchria" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 4
+	Query: "genus:Urosaurus specificepithet:graciosus" ; Times: 1
+	Query: "genus:Thecadactylus specificepithet:rapicauda" ; Times: 2
+	Query: "genus:Phelsuma specificepithet:laticauda" ; Times: 1
+	Query: "genus:Sibon specificepithet:nebulatus" ; Times: 1
+	Query: "genus:Teratoscincus specificepithet:scincus" ; Times: 1
+	Query: "genus:Pseudopus specificepithet:apodus" ; Times: 1
+	Query: "genus:Draco specificepithet:maculatus" ; Times: 1
+	Query: "genus:Masticophis county:&#34;Lassen&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Shinisaurus specificepithet:crocodilurus" ; Times: 2
+	Query: "pituophis virginia" ; Times: 1
+	Query: "Rana stateprovince:&#34;California&#34; institutioncode:UNR" ; Times: 1
+	Query: "genus:Takydromus specificepithet:sexlineatus" ; Times: 1
+	Query: "genus:Varanus specificepithet:rudicollis" ; Times: 2
+	Query: "genus:Masticophis specificepithet:taeniatus" ; Times: 1
+	Query: "genus:Elaphe specificepithet:radiata" ; Times: 1
+	Query: "Pyromelana" ; Times: 1
+	Query: "genus:Ahaetulla specificepithet:nasuta" ; Times: 2
+	Query: "genus:Hydrosaurus specificepithet:amboinensis" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria county:&#34;Plumas&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Chionactis occipitalis county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Bunopus specificepithet:tuberculatus" ; Times: 1
+	Query: "genus:Holaspis specificepithet:guentheri" ; Times: 1
+	Query: "genus:Malayemys specificepithet:subtrijuga" ; Times: 1
+	Query: "genus:Chlamydosaurus specificepithet:kingii" ; Times: 1
+	Query: "UNR" ; Times: 1
+	Query: "genus:Tylototriton specificepithet:verrucosus" ; Times: 1
+	Query: "Shinisaurus crocodilurus" ; Times: 1
+	Query: "Lampropeltis pyromelana infralabialis" ; Times: 1
+	Query: "hydrodynastes" ; Times: 1
+	Query: "genus:Crotaphytus specificepithet:bicinctores" ; Times: 3
+	Query: "genus:Charina specificepithet:reinhardtii" ; Times: 1
+	Query: "genus:Varanus specificepithet:exanthematicus" ; Times: 1
+	Query: "genus:Gerrhosaurus specificepithet:nigrolineatus" ; Times: 1
+	Query: "genus:Antaresia specificepithet:childreni" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; institutioncode:UNR" ; Times: 1
+	Query: "genus:Cuora specificepithet:amboinensis" ; Times: 1
+	Query: "Lampropeltis Pyromelana" ; Times: 1
+	Query: "genus:Chamaeleo specificepithet:calyptratus" ; Times: 1
+	Query: "genus:Clelia specificepithet:clelia" ; Times: 1
+	Query: "genus:Leiolepis specificepithet:belliana" ; Times: 1
+	Query: "genus:Sauromalus specificepithet:ater" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1182 download events in this period)
+Total number of records downloaded: 584
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 4
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-06 ; Times: 2
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Neobatrachus" ; Times: 1
+	Query: "eunectes" ; Times: 1
+	Query: "frogs" ; Times: 1
+	Query: "crotaphytus bicinctores" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "genus:Xenopus" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "Hydrodynastes" ; Times: 2
+	Query: "Tupinambis teguixin" ; Times: 2
+	Query: "tARICHA GRANULOSA" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 1
+	Query: "rainbow trout" ; Times: 1
+	Query: "Spea intermontana" ; Times: 1
+	Query: "Xenopeltis" ; Times: 1
+
+
+End of report.
