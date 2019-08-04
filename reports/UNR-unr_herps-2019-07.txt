@@ -1,0 +1,108 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 167
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 3
+	Date: 2019-07-08 ; Times: 10
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-16 ; Times: 3
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 3
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:alleni genus:micrurus" ; Times: 1
+	Query: "genus:Eublepharis" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "genus:sceloporus catalognumber:5284" ; Times: 1
+	Query: "genus:Pseudemys specificepithet:texana" ; Times: 1
+	Query: "Lampropeltis pyromelana infralabialis" ; Times: 1
+	Query: "specificepithet:arnoensis genus:Emoia country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "genus:Sonora county:&#34;Storey&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Thecadactylus specificepithet:rapicauda" ; Times: 1
+	Query: "genus:Ptychozoon" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "genus:Crotaphytus specificepithet:bicinctores" ; Times: 1
+	Query: "genus:sceloporus county:&#34;Sierra&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hemidactylus country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Hydrosaurus amboinensis" ; Times: 1
+	Query: "specificepithet:oceanica genus:Gehyra country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:arenicolor county:&#34;coconino&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Elgaria stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;White Pine&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "genus:Gehyra country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "phelsuma grandis" ; Times: 1
+	Query: "genus:Ahaetulla specificepithet:nasuta" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:tridactylum" ; Times: 1
+	Query: "genus:Charina county:&#34;Storey&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 985 download events in this period)
+Total number of records downloaded: 1808
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 7
+	Date: 2019-07-31 ; Times: 14
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:alleni genus:micrurus" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus" ; Times: 1
+	Query: "Malayemys subtrijuga" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "specificepithet:ater genus:Sauromalus" ; Times: 2
+	Query: "specificepithet:lateralis genus:Scincella" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:bicinctores genus:Crotaphytus" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia" ; Times: 3
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:Hernandesi genus:Phrynosoma" ; Times: 1
+
+
+End of report.
