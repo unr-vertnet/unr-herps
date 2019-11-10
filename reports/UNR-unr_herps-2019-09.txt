@@ -1,0 +1,118 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 147
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: United Kingdom ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 3
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-04 ; Times: 9
+	Date: 2019-09-18 ; Times: 7
+	Date: 2019-09-06 ; Times: 13
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-08 ; Times: 3
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-22 ; Times: 3
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:UNR" ; Times: 3
+	Query: "coleonyx variegatus month &gt;= 9 month &lt;= 11" ; Times: 3
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;New York&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Python 9783" ; Times: 1
+	Query: "locality:dead mountains" ; Times: 2
+	Query: "genus:Chionactis county:&#34;Inyo&#34; stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 8
+	Query: "lampropeltis ruthveni" ; Times: 2
+	Query: "genus:Pituophis class:Reptilia county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 12
+	Query: "specificepithet:fisheri genus:rana year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "catalognumber:2066 institutioncode:UNR" ; Times: 2
+	Query: "genus:Hypsiglena class:Reptilia county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Elgaria stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:CHARINA stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 3
+	Query: "bradypodion" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:Reptilia locality:Bakersfield county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS NOT UCMP NOT PBDB)" ; Times: 1
+	Query: "county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34; (Crotaphytus bicinctores) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bicinctores genus:Crotaphytus county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "dodo" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;New York&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "class:amphibia locality:needles county:&#34;San Bernardino&#34; stateprovince:&#34;CAlifornia&#34;" ; Times: 1
+	Query: "emoia arnoensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1073 download events in this period)
+Total number of records downloaded: 303
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 12
+	Country: Rwanda ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "nelsoni (Bufo OR Anaxyrus)" ; Times: 2
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "specificepithet:kohnii genus:graptemys" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+
+
+End of report.
