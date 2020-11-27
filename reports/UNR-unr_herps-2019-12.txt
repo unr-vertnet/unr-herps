@@ -1,0 +1,88 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 46
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Belgium ; Times: 5
+	Country: Slovakia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 6
+	Date: 2019-12-27 ; Times: 5
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-09 ; Times: 4
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudopus apodus" ; Times: 4
+	Query: "Salvadora hexalepis mojavensis" ; Times: 1
+	Query: "specificepithet:vigilis class:reptilia county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:vigilis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Nevada specificepithet:suspectum genus:heloderma" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "emoia arnoensis" ; Times: 1
+	Query: "shinisaurus crocodilurus" ; Times: 2
+	Query: "specificepithet:curtus genus:Python" ; Times: 4
+	Query: "specificepithet:suspectum genus:Heloderma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:heloderma institutioncode:UNR" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 596 download events in this period)
+Total number of records downloaded: 192
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Belgium ; Times: 12
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 12
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-05 ; Times: 5
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "&#34;Crotalus cerastes cerastes&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "genus:Furcifer" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "shinisaurus crocodilurus" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "chamaeleo calyptratus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
