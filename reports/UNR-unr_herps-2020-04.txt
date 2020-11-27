@@ -1,0 +1,139 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 109
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Turkey ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-23 ; Times: 2
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-26 ; Times: 8
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-28 ; Times: 2
+	Date: 2020-04-29 ; Times: 3
+	Date: 2020-04-08 ; Times: 2
+	Date: 2020-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhinocheilus Washoe county" ; Times: 1
+	Query: "county:&#34;Churchill&#34; stateprovince:&#34;Nevada&#34; (dixie valley)" ; Times: 1
+	Query: "genus:phyllorhynchus county:&#34;inyo&#34;" ; Times: 1
+	Query: "genus:phyllorhynchus county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "locality:Arno Atoll country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 2
+	Query: "St Lucia year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:Pseudotriton stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Fort Clark 1893" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;White Pine&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:muscosa genus:Rana stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:sonora county:&#34;kay&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "locality:Arno country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "genus:heloderma county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "class:reptilia catalognumber:7347" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina county:&#34;Storey&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Thamnophis couchii nevada" ; Times: 1
+	Query: "specificepithet:decurtatus county:&#34;inyo&#34;" ; Times: 1
+	Query: "Sceloporus undulatus mississippi" ; Times: 1
+	Query: "specificepithet:arnoensis genus:Emoia locality:Arno country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "genus:trimorphodon class:reptilia stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "specificepithet:pyromelana genus:lampropeltis stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:Lamprolepis country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Heloderma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "genus:Hemidactylus locality:Arno Atoll country:&#34;Marshall Islands&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1171 download events in this period)
+Total number of records downloaded: 2183
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Turkey ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 2
+	Date: 2020-04-18 ; Times: 4
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-10 ; Times: 3
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-06 ; Times: 4
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-29 ; Times: 20
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:skiltonianus genus:Eumeces" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "genus:phyllorhynchus county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "Rana luteiventris" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "Charina bottae" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "clelia clelia" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "specificepithet:hernandesi genus:Phrynosoma" ; Times: 2
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "Thamnophis couchii" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "specificepithet:JORDANI genus:Plethodon" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Rhyacotriton" ; Times: 1
+
+
+End of report.
