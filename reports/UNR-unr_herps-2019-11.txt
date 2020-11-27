@@ -1,0 +1,134 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 784
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 106
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 4
+	Date: 2019-11-21 ; Times: 6
+	Date: 2019-11-22 ; Times: 3
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-08 ; Times: 8
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-09 ; Times: 3
+	Date: 2019-11-06 ; Times: 3
+	Date: 2019-11-07 ; Times: 25
+	Date: 2019-11-16 ; Times: 3
+	Date: 2019-11-13 ; Times: 4
+	Date: 2019-11-12 ; Times: 29
+	Date: 2019-11-15 ; Times: 5
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-14 ; Times: 11
+	Date: 2019-11-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Gopherus agassizii 2016" ; Times: 7
+	Query: "Gopherus agassizii 2015" ; Times: 7
+	Query: "genus:Hypsiglena stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Sonora institutioncode:UNR" ; Times: 1
+	Query: "genus:charina specificepithet:bottae institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:intermontana genus:Spea county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:xenopeltis specificepithet:unicolor institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:lialis specificepithet:burtonis institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm OR nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Lampropeltis pyromelana infralabialis" ; Times: 2
+	Query: "Pituophis virginia" ; Times: 4
+	Query: "genus:leptotyphlops specificepithet:humilis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 39
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2010" ; Times: 1
+	Query: "genus:anguis specificepithet:fragilis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:mitchelli genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:semiannulata genus:Sonora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 19
+	Query: "institutioncode:UNR" ; Times: 3
+	Query: "Nevada lampropeltis pyromelana" ; Times: 2
+	Query: "Nevada lampropeltis" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Sauromalus Nevada" ; Times: 2
+	Query: "genus:Chionactis county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:humilis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:lialis specificepithet:burtonis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:elaphe specificepithet:guttata institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:amboinensis genus:hydrosaurus" ; Times: 1
+	Query: "catalognumber:6308 institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:garnotii genus:Hemidactylus country:&#34;Marshall Islands&#34;" ; Times: 3
+	Query: "catalognumber:942" ; Times: 1
+	Query: "country:&#34;Marshall Islands&#34; institutioncode:UNR" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1367 download events in this period)
+Total number of records downloaded: 703
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Bosnia and Herzegovina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 3
+	Date: 2019-11-21 ; Times: 10
+	Date: 2019-11-22 ; Times: 7
+	Date: 2019-11-23 ; Times: 3
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-08 ; Times: 7
+	Date: 2019-11-06 ; Times: 3
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Hypsiglena stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:charina institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:lateralis genus:Masticophis" ; Times: 1
+	Query: "genus:Hypsiglena stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:charina specificepithet:bottae institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:xenopeltis specificepithet:unicolor institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Furcifer pardalis" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:nerodia specificepithet:sipedon institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:leptotyphlops specificepithet:humilis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:anguis specificepithet:fragilis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vehiculum genus:Plethodon" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:semiannulata genus:Sonora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Nevada lampropeltis pyromelana" ; Times: 1
+	Query: "Leiolepis belliana" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:humilis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:lialis specificepithet:burtonis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:elaphe specificepithet:guttata institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
