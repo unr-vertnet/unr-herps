@@ -1,0 +1,131 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 199
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Unknown ; Times: 2
+	Country: Australia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 3
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 5
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-22 ; Times: 8
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-18 ; Times: 4
+	Date: 2020-05-19 ; Times: 5
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:graciosus genus:sceloporus county:&#34;humboldt&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;mono&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;NEvada&#34;" ; Times: 5
+	Query: "class:amphibia county:&#34;Mono&#34; year &gt;= 1951 year &lt;= 1970" ; Times: 1
+	Query: "genus:trimorphodon stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "specificepithet:platyrhinos locality:Panamint county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:oceanica genus:Gehyra country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Charina county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Elgaria stateprovince:&#34;NEvada&#34;" ; Times: 4
+	Query: "genus:Rana specificepithet:boylii stateprovince:california year&lt;=1980" ; Times: 1
+	Query: "class:reptilia county:&#34;Mono&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Inyo&#34;" ; Times: 2
+	Query: "class:reptilia county:&#34;Mono&#34; year &gt;= 1921 year &lt;= 1950" ; Times: 1
+	Query: "chelydra serpentina louisiana" ; Times: 1
+	Query: "genus:Rana specificepithet:boylii stateprovince:california year&lt;=1970" ; Times: 1
+	Query: "specificepithet:graciosus genus:sceloporus stateprovince:&#34;california&#34; year &gt;= 1971 year &lt;= 1972" ; Times: 1
+	Query: "class:amphibia county:&#34;Mono&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "class:reptilia county:&#34;Mono&#34; year &gt;= 1961 year &lt;= 1975" ; Times: 1
+	Query: "class:reptilia county:&#34;Mono&#34; year &gt;= 1901 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:punctatus genus:bufo county:&#34;Inyo&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;Mono&#34; year &gt;= 1951 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:boreas genus:Bufo year &gt;= 2002 year &lt;= 2008" ; Times: 1
+	Query: "Kinixys nogueyi" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1106 download events in this period)
+Total number of records downloaded: 602
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Singapore ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Ireland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 6
+	Date: 2020-05-06 ; Times: 5
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-05 ; Times: 5
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:texana genus:pseudemys" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "Pachytriton" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "Arizona elegans" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "genus:Triturus family:salamandridae" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:niloticus genus:Varanus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cynops" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Taricha sierrae" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Tylototriton" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Paramesotriton" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+
+
+End of report.
