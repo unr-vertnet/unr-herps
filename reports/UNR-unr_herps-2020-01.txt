@@ -1,0 +1,152 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 1045
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 143
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-28 ; Times: 10
+	Date: 2020-01-17 ; Times: 12
+	Date: 2020-01-18 ; Times: 73
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-23 ; Times: 26
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-27 ; Times: 5
+	Date: 2020-01-30 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-29 ; Times: 7
+	Date: 2020-01-09 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:UNR" ; Times: 5
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;California&#34; institutioncode:UNR" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 77
+	Query: "lampropeltis pyromelana" ; Times: 5
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:UNR" ; Times: 4
+	Query: "picta Chrysemys" ; Times: 1
+	Query: "Shinisaurus crocodilurus" ; Times: 2
+	Query: "specificepithet:tinctorius genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:fisheri genus:Rana" ; Times: 1
+	Query: "Bufo woodhousii stateprovince:&#34;Nevada&#34;" ; Times: 4
+	Query: "Lampropeltis pyromelana infralabialis" ; Times: 5
+	Query: "Chionactis occipitalis county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:orientalis genus:Bombina" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "specificepithet:obstetricans genus:Alytes" ; Times: 1
+	Query: "institutioncode:unr" ; Times: 1
+	Query: "specificepithet:adspersus genus:Pyxicephalus" ; Times: 1
+	Query: "luteiventris Rana" ; Times: 1
+	Query: "specificepithet:bennettii genus:Notaden" ; Times: 1
+	Query: "Bufo cognatus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:ornata genus:Ceratophrys" ; Times: 1
+	Query: "specificepithet:gottlebei genus:Scaphiophryne" ; Times: 1
+	Query: "specificepithet:variegata genus:Bombina" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "specificepithet:sudelli genus:Neobatrachus" ; Times: 1
+	Query: "Diploglossus monotropis" ; Times: 1
+	Query: "specificepithet:canorus genus:Bufo" ; Times: 1
+	Query: "specificepithet:roborowskii genus:Teratoscincus institutioncode:UNR" ; Times: 3
+	Query: "specificepithet:arborea genus:Hyla" ; Times: 1
+	Query: "specificepithet:guineti genus:Dyscophus" ; Times: 2
+	Query: "specificepithet:nelsoni genus:Bufo" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "genus:rana institutioncode:UNR" ; Times: 1
+	Query: "Chionactis occipitalis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Goniurosaurus araneus" ; Times: 1
+	Query: "specificepithet:alvarius genus:Bufo" ; Times: 1
+	Query: "specificepithet:onca genus:Rana" ; Times: 1
+	Query: "Sauromalus Nevada" ; Times: 2
+	Query: "Crotalus stephensi stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "specificepithet:laevigata genus:Uperoleia" ; Times: 1
+	Query: "specificepithet:scincus genus:Teratoscincus institutioncode:UNR" ; Times: 3
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UNR" ; Times: 4
+	Query: "specificepithet:exsul genus:Bufo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1584 download events in this period)
+Total number of records downloaded: 389
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Belgium ; Times: 1
+	Country: China ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 3
+	Date: 2020-01-28 ; Times: 9
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 8
+	Date: 2020-01-25 ; Times: 5
+	Date: 2020-01-24 ; Times: 13
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-31 ; Times: 4
+	Date: 2020-01-23 ; Times: 9
+	Date: 2020-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;bd&#34; order:anura" ; Times: 1
+	Query: "specificepithet:marinus genus:bufo stateprovince:&#34;hawaii&#34;" ; Times: 3
+	Query: "Tarentola annularis" ; Times: 1
+	Query: "Sauromalus varius" ; Times: 1
+	Query: "Hemidactylus garnotii" ; Times: 3
+	Query: "Takydromus sexlineatus" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "cordylidae" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "plethodon dunni" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Phelsuma madagascariensis" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Lamprolepis smaragdina" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Phelsuma grandis" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Teratoscincus scincus" ; Times: 1
+	Query: "Gekko gecko" ; Times: 3
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;Hawaii&#34;" ; Times: 12
+	Query: "Diploglossus monotropis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "bufo marinus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Dipsosaurus catalinensis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "specificepithet:marinus genus:bufo stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "genus:Thamnophis hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "Eremias argus" ; Times: 1
+
+
+End of report.
