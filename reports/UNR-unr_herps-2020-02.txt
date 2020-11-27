@@ -1,0 +1,130 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 382
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 30
+	Country: French Guiana ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 7
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-05 ; Times: 4
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-07 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-20 ; Times: 4
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:UNR" ; Times: 1
+	Query: "paramesotriton" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:UNR" ; Times: 1
+	Query: "no data specificepithet:jobiensis genus:varanus" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "apalone spinifera emoryi" ; Times: 1
+	Query: "JR 18 Pituophis" ; Times: 1
+	Query: "Pituophis virginia" ; Times: 1
+	Query: "Heloderma suspectum cinctum" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "JR 18 Pituophis catenifer" ; Times: 2
+	Query: "crotalus stephensi" ; Times: 3
+	Query: "Bunopus tuberculatus" ; Times: 1
+	Query: "JR-18 Pituophis catenifer" ; Times: 1
+	Query: "heloderma suspectum cinctum" ; Times: 3
+	Query: "gbifdatasetid:c62f7574-d65a-4018-87a2-b96d6df5231b" ; Times: 1
+	Query: "specificepithet:roborowskii genus:Teratoscincus institutioncode:UNR" ; Times: 1
+	Query: "Boa nebulosa" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "specificepithet:woodhousii county:&#34;nye&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "institutioncode:UNR" ; Times: 2
+	Query: "varanus griseus" ; Times: 1
+	Query: "specificepithet:scincus genus:Teratoscincus institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UNR" ; Times: 1
+	Query: "&#34;Cerastes gasperettii&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;Riverside&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1023 download events in this period)
+Total number of records downloaded: 980
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 17
+	Country: French Guiana ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-05 ; Times: 5
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larvae" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "genus:macrochelys" ; Times: 1
+	Query: "class:Amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Cerastes cerastes&#34;" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "Boa nebulosa" ; Times: 1
+	Query: "Anguidae" ; Times: 1
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "county:&#34;San Diego&#34; year &gt;= 1996 year &lt;= 1999" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "&#34;Cerastes gasperettii&#34;" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+
+
+End of report.
