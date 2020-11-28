@@ -1,0 +1,126 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 143
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 35
+	Country: Germany ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-19 ; Times: 6
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-03 ; Times: 7
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 10
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-02 ; Times: 3
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Squamata hybrid" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "specificepithet:luteiventris genus:Rana year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "family:Ranidae county:&#34;Douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 3
+	Query: "genus:charina county:&#34;alpine&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Bakersfield county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:luteiventris genus:Rana year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "7333 spea" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "Plethodon metcalfi" ; Times: 1
+	Query: "specificepithet:lutieventris stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "7336 spea" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "corallus caninus" ; Times: 5
+	Query: "Batrachoseps pacificus" ; Times: 1
+	Query: "genus:charina county:&#34;mono&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:ruthveni genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana county:&#34;Douglas&#34;" ; Times: 1
+	Query: "specificepithet:taeniatus class:reptilia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 2
+	Query: "genus:lampropeltis stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Plethodon albagula" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1950 year &lt;= 1960" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Esmeralda&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1948 year &lt;= 1949" ; Times: 1
+	Query: "genus:Xantusia county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana county:&#34;Douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "specificepithet:hernandesi stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 1996 year &lt;= 2000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 940 download events in this period)
+Total number of records downloaded: 1352
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Clelia clelia" ; Times: 2
+	Query: "viperidae" ; Times: 1
+	Query: "specificepithet:douglassii genus:phrynosoma" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "Rana pipiens nevada" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 1950" ; Times: 1
+
+
+End of report.
