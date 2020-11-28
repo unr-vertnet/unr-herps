@@ -1,0 +1,102 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 79
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Finland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-01 ; Times: 2
+	Date: 2020-08-12 ; Times: 2
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-14 ; Times: 3
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-24 ; Times: 3
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:punctatus genus:bufo county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:scincus genus:Teratoscincus institutioncode:UNR" ; Times: 4
+	Query: "specificepithet:pipiens genus:Rana county:&#34;Esmeralda&#34; institutioncode:UNR" ; Times: 1
+	Query: "boreas hot creek" ; Times: 1
+	Query: "specificepithet:roborowskii genus:Teratoscincus institutioncode:UNR" ; Times: 4
+	Query: "catalognumber:346 institutioncode:UNR" ; Times: 3
+	Query: "catalognumber:509 institutioncode:UNR" ; Times: 1
+	Query: "hydrosaurus amboinensis" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Python molurus bivittatus" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:UNR" ; Times: 1
+	Query: "genus:Rana county:&#34;Esmeralda&#34; stateprovince:&#34;Nevada&#34; institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:punctatus county:&#34;inyo&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis stateprovince:&#34;Nevada&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 756 download events in this period)
+Total number of records downloaded: 1551
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-01 ; Times: 2
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-09 ; Times: 2
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Batrachoseps" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:pipiens stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Texas genus:Masticophis" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana county:&#34;El Dorado&#34;" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "litoria infrafrenata" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:tinctorius genus:Dendrobates" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 2
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "Batrachoseps" ; Times: 2
+	Query: "lampropeltis triangulum" ; Times: 1
+
+
+End of report.
