@@ -1,0 +1,50 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pseudemys stateprovince:&#34;Louisiana&#34; institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Charina county:&#34;Mono&#34;" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Mono&#34;" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 474 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+
+
+End of report.
