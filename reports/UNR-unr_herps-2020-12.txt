@@ -1,0 +1,109 @@
+Report for Institution Code UNR, Resource unr_herps
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-19 ; Times: 2
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-05 ; Times: 1
+	Date: 2020-12-04 ; Times: 3
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Apalone stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:pseudemys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Dyscophus specificepithet:guineti" ; Times: 1
+	Query: "Geoemyda spengleri" ; Times: 1
+	Query: "Diploglossus monotropis" ; Times: 1
+	Query: "eumeces gilberti nevada" ; Times: 1
+	Query: "Cuora amboinensis" ; Times: 1
+	Query: "Table Creek Thamnophis" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "locality:state game farm stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "genus:trimorphodon stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Masticophis taeniatus stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 705 download events in this period)
+Total number of records downloaded: 1647
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 20
+	Country: Spain ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-23 ; Times: 20
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-04 ; Times: 4
+	Date: 2020-12-14 ; Times: 3
+	Date: 2020-12-02 ; Times: 19
+	Date: 2020-12-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Alytes obstetricans" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Hemidactylus turcicus" ; Times: 2
+	Query: "Podarcis muralis" ; Times: 2
+	Query: "Oedura marmorata" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Gehyra variegata" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "plethodon dunni" ; Times: 1
+	Query: "Plethodon metcalfi" ; Times: 2
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 2
+	Query: "Typhlonectes natans" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "calotes versicolor" ; Times: 1
+	Query: "Lialis burtonis" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "Lepidodactylus lugubris" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Lerista punctatovittata" ; Times: 1
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 2
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Morethia boulengeri" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "plethodon jordani" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Cordylus cordylus" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "plethodon albagula" ; Times: 1
+
+
+End of report.
